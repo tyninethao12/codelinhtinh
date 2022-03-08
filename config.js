@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "I LOVE YOU BBI",
-    introTitle: 'Chua dat ten',
+    titleWeb: "Chuc Mưng 8-3 <3",
+    introTitle: 'Nguyen Ngoc Mai',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
